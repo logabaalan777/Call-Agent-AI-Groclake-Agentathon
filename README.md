@@ -14,7 +14,7 @@ Welcome to the Drastic Innovators project! 🚀 We are a team of enthusiastic in
 
 ## 📄 Project Presentation
 📢 Check out our **detailed PPT presentation** explaining the project.  
-📥 [Download Presentation](#)
+📥 [Download Presentation](https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Drastic_innovators_Groclake.pdf)
 
 ---
 
