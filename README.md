@@ -44,12 +44,4 @@ E-commerce platforms struggle with:
 
 ---
 
-## 🚀 How It Works
-1️⃣ **User Calls** → AI answers queries using real-time data.  
-2️⃣ **Speech Recognition** (ASR - ModelLake) converts voice to text.  
-3️⃣ **AI Processing** retrieves relevant information from e-commerce databases.  
-4️⃣ **Text-to-Speech (TTS - ModelLake)** generates a human-like response.  
-5️⃣ **Response Delivered** to the user instantly!  
-
----
 
