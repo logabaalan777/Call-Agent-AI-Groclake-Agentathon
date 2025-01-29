@@ -40,7 +40,7 @@ E-commerce platforms struggle with:
 ✔️ AI **Voice-Based Customer Support** for seamless interaction.  
 ✔️ **24/7 AI-Powered Assistance** reducing human dependency.  
 ✔️ **Real-Time Integration** with e-commerce databases.  
-✔️ **Multi-Query Handling** – Product details, delivery status, return & refund tracking.  
+✔️ **Multi-Query Handling** – Product details, delivery status, return & refund tracking, Raising An Issue.  
 
 ---
 
