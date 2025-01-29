@@ -10,7 +10,7 @@ Welcome to the Drastic Innovators project! 🚀 We are a team of enthusiastic in
 
 *AI-powered Voice Assistance for E-Commerce* to tackle the growing complexity of customer queries, ensuring scalability, efficiency, and 24/7 support. Our solution leverages AI to provide real-time, human-like voice interactions, reducing dependence on human agents. This innovation enhances customer satisfaction, streamlines support operations and boosts e-commerce business growth. 🚀
 
-## *Reason for Choosing This Theme!*🤔
+## *Reason for Choosing This Theme*!🤔
 
 *Addressing a Real-World Challenge:* The growing complexity and scale of customer queries in e-commerce demand innovative solutions. Our AI Voice Calling system addresses this by providing scalable, efficient, and cost-effective customer support, significantly improving user experience.
 
