@@ -12,6 +12,6 @@ Welcome to the Drastic Innovators project! 🚀 We are a team of enthusiastic in
 
 ## *Reason for Choosing This Theme*!🤔
 
-*Addressing a Real-World Challenge:* The growing complexity and scale of customer queries in e-commerce demand innovative solutions. Our AI Voice Calling system addresses this by providing scalable, efficient, and cost-effective customer support, significantly improving user experience.
+**Addressing a Real-World Challenge:** The growing complexity and scale of customer queries in e-commerce demand innovative solutions. Our AI Voice Calling system addresses this by providing scalable, efficient, and cost-effective customer support, significantly improving user experience.
 
-*Driving Innovation in E-Commerce:* Leveraging AI technology for voice interactions offers a unique and forward-thinking approach, aligning with the evolving needs of the e-commerce industry and enhancing the competitive edge of businesses.
+**Driving Innovation in E-Commerce:** Leveraging AI technology for voice interactions offers a unique and forward-thinking approach, aligning with the evolving needs of the e-commerce industry and enhancing the competitive edge of businesses.
