@@ -61,6 +61,7 @@
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | Processes queries and generates intelligent responses |
 | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | Backend API management |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Stores customer details |
+| ![Modellake](https://img.shields.io/badge/Modellake-6A0DAD?style=for-the-badge) | Formats chat responses and powers AI/NLP processing |
 | ![VectorLake](https://img.shields.io/badge/Vector_Lake-007ACC?style=for-the-badge) | Stores and retrieves product details |
 
 ---
