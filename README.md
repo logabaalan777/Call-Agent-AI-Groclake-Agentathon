@@ -24,6 +24,8 @@
 ---
 
 ## 🔄 **How It Works**
+![Flowchart](https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Presentation_Img_flow_chart.png)
+
 1️⃣ **Customer Initiates Call** 📞 via **Twilio** (PSTN handling)  
 2️⃣ **Customer Verification** ✅ via **MySQL Database**  
 3️⃣ **Real-time Streaming** 🌐 using **Node.js & WebSockets**  
@@ -31,8 +33,6 @@
 5️⃣ **AI Processing & Response Generation** 🤖 using **OpenAI & ModelLake**  
 6️⃣ **Backend Processing** 🔄 via **Flask APIs**  
 7️⃣ **AI Response Delivered** 🔊 via **Twilio & Deepgram TTS**  
-
-![Flowchart](https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Presentation_Img_flow_chart.png)
 
 ---
 
