@@ -26,13 +26,28 @@
 ## 🔄 **How It Works**
 ![Flowchart](https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Presentation_Img_flow_chart.png)
 
-1️⃣ **Customer Initiates Call** 📞 via **Twilio** (PSTN handling)  
-2️⃣ **Customer Verification** ✅ via **MySQL Database**  
-3️⃣ **Real-time Streaming** 🌐 using **Node.js & WebSockets**  
-4️⃣ **Speech-to-Text Conversion** 🎙️➡️📝 via **Deepgram**  
-5️⃣ **AI Processing & Response Generation** 🤖 using **OpenAI & ModelLake**  
-6️⃣ **Backend Processing** 🔄 via **Flask APIs**  
-7️⃣ **AI Response Delivered** 🔊 via **Twilio & Deepgram TTS**  
+1️⃣ **Customer Initiates Call** 📞  
+   - The customer calls via **Twilio**, which manages the **public switched telephone network (PSTN)**.  
+
+2️⃣ **Customer Verification** ✅  
+   - The system checks the **MySQL database** for customer details.  
+   - If valid, the process continues.  
+
+3️⃣ **Real-time Streaming via Node.js** 🌐  
+   - **Node.js** manages the audio stream and connects to **WebSockets**.  
+
+4️⃣ **Speech-to-Text Conversion** 🎙️➡️📝  
+   - The voice input is sent to **Deepgram** for transcription.  
+
+5️⃣ **AI Processing & Response Generation** 🤖💡  
+   - **OpenAI** processes the transcribed query.  
+   - **ModelLake** formats the response and retrieves **product details** from **Vector Lake**.  
+
+6️⃣ **Backend Processing & Formatting** 🔄  
+   - The AI-generated response is processed using **Flask APIs**.  
+
+7️⃣ **AI Response is Sent Back** 🔊  
+   - The text is **converted back to speech** via **Deepgram** and streamed through **Twilio**.  
 
 ---
 
