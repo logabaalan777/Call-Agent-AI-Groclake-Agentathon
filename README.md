@@ -56,6 +56,10 @@
 
 ## 📢 **Meet the Drastic Innovators Team**
 We are passionate about AI-driven innovation, transforming customer support one call at a time! 🚀
-
+- **Karthikeyan M**: [LinkedIn](https://www.linkedin.com/in/karthikeyan-m30112004/) | [GitHub](https://github.com/KarthikeyanM3011)
+- **Barath Raj P**: [LinkedIn](https://www.linkedin.com/in/barathrajp/) | [GitHub](https://github.com/Barathaj)
+- **Arun Kumar R**: [LinkedIn](https://www.linkedin.com/in/arun-kumar-99b841255/) | [GitHub](https://github.com/ArunKumar200510)
+- **Logabaalan R S**: [LinkedIn](https://www.linkedin.com/in/logabaalan-r-s-94ba82259/) | [GitHub](https://github.com/logabaalan777)
+Contact us for collaborations, queries, or more information!
 💡 **Join us in making E-Commerce smarter, faster & more efficient!**  
 
