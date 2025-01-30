@@ -73,6 +73,27 @@
 
 ---
 
+## 🌟 Groclake Tools and its usage 
+
+**Groclake** is an **Agentic AI infrastructure** designed to revolutionize **e-commerce automation** by integrating **AI-powered workflows, intelligent agents, and scalable solutions**. It automates tasks such as customer engagement, inventory management, and intelligent product search.  
+
+Our project leverages **Groclake's modular components** to enhance customer interactions through AI-driven **voice assistance, search capabilities, and dynamic responses**.  
+
+## 🚀 How We Use Groclake Components
+
+| Component | Usage in Our Project |
+|-----------|----------------------|
+| **Modellake** | Enables **AI-driven chatbot** and **Formating the Responses** for customer interactions. |
+| **Vectorlake** | Powers **stores product details, semantic search & personalized product recommendations**. |
+
+## ⚡ Why Groclake?  
+✔️ **Boosts Efficiency**: Reduces manual effort by **40%**, improves query resolution by **50%**.  
+✔️ **Enhances CX**: AI-driven interactions increase **customer satisfaction** & conversions.  
+✔️ **Secure & Scalable**: Enterprise-grade **data security** & **cost-effective automation**.  
+✔️ **Developer-Friendly**: Pre-built libraries simplify AI/ML **integration & deployment**.  
+
+---
+
 ## 📢 **Meet the Drastic Innovators Team**
 We are passionate about AI-driven innovation, transforming customer support one call at a time! 🚀
 
