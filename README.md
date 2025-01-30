@@ -46,7 +46,7 @@ E-commerce platforms struggle with:
 
 ## 🔄 How It Works  
 
-![[Workflow](https://github.com/your-repo-name/blob/main/Presentation_Img_flow_chart.png](https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Presentation_Img_flow_chart.png))
+![image](https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Presentation_Img_flow_chart.png)
 
 1️⃣ **Customer Initiates Call** 📞  
    - The customer calls via **Twilio**, which manages the **public switched telephone network (PSTN)**.  
