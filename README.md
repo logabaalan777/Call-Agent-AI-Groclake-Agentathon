@@ -36,13 +36,18 @@
 
 ---
 
-## 🛠 **Tech Stack**
-- **AI & NLP:** OpenAI, ModelLake
-- **Backend:** Flask, Node.js
-- **Database:** MySQL
-- **Voice Processing:** Deepgram
-- **Communication API:** Twilio
-- **WebSockets for Real-time Streaming**
+## 🛠️ Tech Stack  
+
+| Technology | Description |
+|------------|-------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | Handles media streaming for incoming/outgoing calls |
+| ![Twilio](https://img.shields.io/badge/Twilio-FF0000?style=for-the-badge&logo=twilio&logoColor=white) | Manages voice calling and PSTN network |
+| ![WebSockets](https://img.shields.io/badge/WebSockets-FFCC00?style=for-the-badge) | Enables real-time communication |
+| ![Deepgram](https://img.shields.io/badge/Deepgram-000000?style=for-the-badge&logo=deepgram&logoColor=white) | Converts speech-to-text and vice versa |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | Processes queries and generates intelligent responses |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | Backend API management |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Stores customer details |
+| ![VectorLake](https://img.shields.io/badge/Vector_Lake-007ACC?style=for-the-badge) | Stores and retrieves product details |
 
 ---
 
