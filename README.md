@@ -10,7 +10,7 @@
 📺 [Watch Here](https://drive.google.com/file/d/1x0bhNdwgSyUrPugg1VCHzfN1TZWsjk3F/view?usp=drive_link)
 
 ## 📄 **Project Presentation**  
-📥 [Download PPT](https://drive.google.com/file/d/1zDygnpZTdAVJeuFqYkor8j8hgI__Lpna/view?usp=sharing)
+📥 [Download PPT](https://drive.google.com/file/d/1lpIjY_XEgLMxKY4TY0DincBSW6RsQMPs/view?usp=sharing)
 
 ---
 
