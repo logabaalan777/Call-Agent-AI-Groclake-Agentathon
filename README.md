@@ -84,7 +84,7 @@ Our project leverages **Groclake's modular components** to enhance customer inte
 
 | Component | Usage in Our Project |
 |-----------|----------------------|
-| **Modellake** | Enables **AI-driven chatbot** and **Formating the Responses** for customer interactions. |
+| **Modellake** | Enables **AI-driven solution** and **Formating the Responses** for customer interactions. |
 | **Vectorlake** | Powers **stores product details, semantic search & personalized product recommendations**. |
 
 ## ⚡ Why Groclake?  
