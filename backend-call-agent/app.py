@@ -2,9 +2,7 @@ from flask import Flask, request, jsonify
 import mysql.connector
 from mysql.connector import Error
 import os
-from groclake.cataloglake import CatalogLake
 from groclake.modellake import ModelLake
-from groclake.datalake import DataLake
 from groclake.vectorlake import VectorLake
 
 GROCLAKE_API_KEY = '72b32a1f754ba1c09b3695e0cb6cde7f'
