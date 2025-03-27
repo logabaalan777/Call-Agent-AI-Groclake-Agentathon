@@ -7,10 +7,10 @@
 ## 🏫 **Sri Eshwar College of Engineering**
 
 ## 🎬 **Demo Video**  
-📺 [Watch Here](https://drive.google.com/file/d/1x0bhNdwgSyUrPugg1VCHzfN1TZWsjk3F/view?usp=drive_link)
+📺 [Watch Here](https://drive.google.com/file/d/1YMWFMLcyQWGk7JD_spMtgR7G05GHaMDi/view?usp=drive_link)
 
 ## 📄 **Project Presentation**  
-📥 [Download PPT](https://drive.google.com/file/d/1lpIjY_XEgLMxKY4TY0DincBSW6RsQMPs/view?usp=sharing)
+📥 [Download PPT](https://www.canva.com/design/DAGi1OGnOsI/Vu0Pfj_BVLjzk97NPDHzbw/edit?utm_content=DAGi1OGnOsI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
