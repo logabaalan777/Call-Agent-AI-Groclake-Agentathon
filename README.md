@@ -97,6 +97,57 @@ Our project leverages **Groclake's modular components** to enhance customer inte
 
 ---
 
+## KuralAI in Action
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/Home.png" alt="Home Page" width="320"><br>
+        <small><b>Home Page</b></small>
+      </td>
+      <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/ProjectCreation.png" alt="Project Creation" width="320"><br>
+        <small><b>Project Creation - Create or View Projects</b></small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/ProjectPage.png" alt="Project Page" width="320"><br>
+        <small><b>View Created Projects</b></small>
+      </td>
+      <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/ProjectConfig.png" alt="Project Configuration" width="320"><br>
+        <small><b>Configure New Project</b></small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/ProjectConfig1.png" alt="Project Configuration" width="320"><br>
+        <small><b>Project Configuration</b></small>
+      </td>
+      <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/LiveLogs.png" alt="Live Logs" width="320"><br>
+        <small><b>View Live Logs of Created Project</b></small>
+      </td>
+    </tr>
+    <tr>
+       <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/ProjectConfig1.png" alt="Configuration View" width="320"><br>
+        <small><b>View Project's Configuration</b></small>
+      </td>
+      <td align="center">
+        <img src="https://github.com/logabaalan777/Call-Agent-AI-Groclake-Agentathon/blob/main/Outputs/ConfigView.png" alt="Configuration View" width="320"><br>
+        <small><b>View Project's Configuration</b></small>
+      </td>
+    </tr>
+  </table>
+  <p><i>KuralAI's intuitive interface provides deep insights into your projects with just a few clicks</i></p>
+</div>
+
+---
+
+
 ## 📢 **Meet the Drastic Innovators Team**
 We are passionate about AI-driven innovation, transforming customer support one call at a time! 🚀
 
